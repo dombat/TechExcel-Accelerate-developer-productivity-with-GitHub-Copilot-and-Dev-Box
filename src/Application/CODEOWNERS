@@ -1,0 +1,10 @@
+# This is a CODEOWNERS file
+
+# Specify the files or directories and assign owners to them
+# Each line follows the format: <pattern> <owner>
+
+# Example:
+# /path/to/file @username
+
+# Add your own rules below:
+* @global-owner1
