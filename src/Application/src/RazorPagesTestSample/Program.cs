@@ -20,7 +20,7 @@ namespace RazorPagesTestSample
                 var db = services.GetRequiredService<AppDbContext>();
   
                 db.Database.EnsureCreated();
-
+  
                 if (!db.Messages.Any())
                 {
                     try
